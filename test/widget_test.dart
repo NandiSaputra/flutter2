@@ -50,7 +50,7 @@ void main() {
 
   //Map
   Map<String, dynamic> kelas = {
-    "nama": "agus",
+    "nama": "Nandi Saputra",
     "kelas": "SI 6"
 
 };
